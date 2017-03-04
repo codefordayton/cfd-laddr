@@ -6,19 +6,25 @@
     <ul class="dropdown-menu">
         <li>
             <a href="http://www.meetup.com/Code-for-Dayton/">
-                <i class=icon-user icon-white></i>
-                Our Gatherings on Meetup
+                <span class="glyphicons glyphicons-user"></span>
+                Gatherings on Meetup
+            </a>
+        </li>
+        <li>
+            <a href="http://data.codefordayton.org/">
+                <span class="icon-user icon-white"></span>
+                Open Data Portal
             </a>
         </li>
         <li>
             <a href="https://github.com/codefordayton">
-                <i class=icon-wrench icon-white></i>
-                Our Code on GitHub
+                <span class="icon-wrench icon-white"></span>
+                Code on GitHub
             </a>
         </li>
         <li>
             <a href="https://github.com/codefordayton/codeofconduct">
-                <i class=icon-cog icon-white></i>
+                <span class="icon-cog icon-white"></span>
                 Code of Conduct
             </a>
         </li>
